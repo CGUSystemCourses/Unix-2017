@@ -2,7 +2,7 @@
 
 ## Coming-up Lectures
 
-- [Lecture 0: Course Introduction](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec00-course_intro)
+- [Lecture 1: Basic UNIX Administration](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec01-unix_adm)
 
 ## Textbooks
 
