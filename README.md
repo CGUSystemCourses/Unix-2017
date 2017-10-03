@@ -2,7 +2,7 @@
 
 ## Coming-up Lectures
 
-- [Lecture 1: Basic UNIX Administration](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec01-unix_adm)
+- [Lecture 2: Write Your First Program](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec02-1st_prog)
 
 ## Textbooks
 
