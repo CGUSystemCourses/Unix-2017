@@ -4,6 +4,8 @@
 
 - [Lecture 2: Write Your First Program](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec02-1st_prog)
 
+- [Lecture 3: UNIX Architecture](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec03-unix_arch)
+
 ## Textbooks
 
 - [Advanced Programming in UNIX Environment](https://www.amazon.com/Advanced-Programming-UNIX-Environment-3rd/dp/0321637739/ref=sr_1_2?ie=UTF8&qid=1505928481&sr=8-2&keywords=advanced+unix+programming)
