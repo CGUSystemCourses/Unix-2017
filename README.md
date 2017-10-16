@@ -2,9 +2,9 @@
 
 ## Coming-up Lectures
 
-- [Lecture 2: Write Your First Program](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec02-1st_prog)
-
 - [Lecture 3: UNIX Architecture](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec03-unix_arch)
+
+- [Lecture 4: File Systems Basics](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec04-file_syst_basic)
 
 ## Textbooks
 
