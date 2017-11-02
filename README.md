@@ -2,9 +2,9 @@
 
 ## Coming-up Lectures
 
-- [Lecture 4: File Systems Basics](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec04-file_syst_basic)
-
 - [Lecture 5: Advanced File Systems](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec05-file_syst_adv)
+
+- [Lecture 6: User Information](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec06-user_info)
 
 ## Textbooks
 
