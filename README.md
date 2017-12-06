@@ -2,9 +2,7 @@
 
 ## Coming-up Lectures
 
-- [Lecture 8: Process Environment](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec08-proc_env)
-
-- [Lecture 9: Process Creation](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec09-proc_create)
+- [Lecture 10: Parallel Programming](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec10-parallel_prog)
 
 ## Textbooks
 
