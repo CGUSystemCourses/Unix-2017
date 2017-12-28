@@ -2,7 +2,7 @@
 
 ## Coming-up Lectures
 
-- [Lecture 10: Parallel Programming](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec10-parallel_prog)
+- [Lecture 11: Network Programming](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec11-net_prog)
 
 ## Textbooks
 
