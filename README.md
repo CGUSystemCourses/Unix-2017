@@ -2,7 +2,7 @@
 
 ## Coming-up Lectures
 
-- [Lecture 11: Network Programming](https://github.com/CGUSystemCourses/Unix-2017/tree/master/lec11-net_prog)
+- [Term Project](https://github.com/CGUSystemCourses/Unix-2017/tree/master/term_project)
 
 ## Textbooks
 
